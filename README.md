@@ -5,7 +5,7 @@ An interactive N-Queens visualizer built with HTML, CSS, and JavaScript. 🖥️
 🔹 Solve with Backtracking and watch the queens being placed! ♛
 🔹 Responsive Board that adjusts size automatically.
 
-🔗 Live Demo: https://iutkarshtiwari.github.io/NQueen/🌐
+🔗 Live Demo: https://iutkarshtiwari.github.io/NQueen/
 
 📌 Check out the repo & contribute!
 
